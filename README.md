@@ -1,2 +1,1 @@
-# stickynotes
-sticky notes repo
+#quick note
